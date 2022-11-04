@@ -2,7 +2,6 @@ nav li{
     display: inline;
     text-align: left;
     padding: .5em;
-    
 }
 
 nav li a{
@@ -38,13 +37,17 @@ body{
 h1{
     font-size: 3em;
     margin-bottom: -.5em;
+    margin-left:5px;
 }
 
 p{
-    font-size: 18px
+    font-size: 18px;
+    margin-left:5px;
 }
 
 .logo{
   width:100px;
-  
+  margin-left: -3em;
+  margin-right: 2em;
+
 }

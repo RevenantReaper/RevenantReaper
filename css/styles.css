@@ -37,7 +37,6 @@ body{
 
 h1{
     font-size: 3em;
-    margin-bottom: -.5em;
     z-index: 1;
 }
 
@@ -54,11 +53,10 @@ p{
 
 .skills{
   font-size:25px;
-  line-height:2;
-  z-index: 1;
 }
 
 .skills-container{
   text-align:center;
   margin-top:10em;
+  z-index: 1;
 }

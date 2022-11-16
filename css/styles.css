@@ -39,7 +39,7 @@ h1{
     z-index: 1;
 }
 
-p{
+p.home{
     font-size: 18px;
     margin-left:5px;
     z-index: 1;
@@ -52,6 +52,8 @@ p{
 
 .skills{
   font-size:25px;
+  margin: 0;
+  padding: 0;
 }
 
 .skills-container{
@@ -59,3 +61,4 @@ p{
   margin-top:10em;
   z-index: 1;
 }
+

@@ -78,3 +78,7 @@ p.home{
 .icon{
   height:30px;
 }
+
+.hometext{
+  z-index: 1;
+}
